@@ -1,0 +1,39 @@
+
+
+
+
+
+
+                    ******************** Welcome to our Pizza Shop ****************************
+-------------------------------------------------------------------------------------------------------------------
+
+Here you can see our pizza types;
+
+            1- Classic Pizza: (30 $) --> ('Mozerella', 'PizzaSauce', 'Mushroom', 'Tomato', 'Corn')
+
+            2- Margherita: (25 $)    --> ('Mozarella', 'Pizza Sauce')
+
+            3- Turkish Pizza: (35 $) -->  ('Mozarella', 'PizzaSauce', 'Mushroom', 'Tomato', 'Sausage')
+
+            4- Plain Pizza: (25 $)   -->  ('Mozarella', 'PizzaSauce', 'Corn')
+
+            5- Superos: (35 $)       -->  ('Mozarella', 'PizzaSauce', 'Mushroom', 'Corn', 'Sausage', 'Olive')
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+Here you can see our sauces types and their prices;
+
+            1-Olives:           -> 5 $
+
+            2-Mushroom:         -> 5 $
+
+            3-Goat Cheese:      -> 8 $
+
+            4-Meat:             -> 8 $
+
+            5-Onion:            -> 5 $
+
+            6-Corn:             -> 6 $
+
+-------------------------------------------------------------------------------------------------------------------
